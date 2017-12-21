@@ -4,11 +4,11 @@
 var allTriviaQuest = [{
   question: "Dogs make 10 different sounds. How many difference sounds can cats make?",
   answers: ["80 different sounds", "50 different sounds", "100 different sounds", "120 different sounds"],
-  correctAnswer: "100 sounds"
+  correctAnswer: "100 different sounds"
 }, {
   question: "What percentage of households in North America own a cat?",
   answers: ["50% of households", "10% of households", "60% of households", "30% of households"],
-  correctAnswer: "30%"
+  correctAnswer: "30% of households"
 }, {
   question: "At approximately what top speed can a cat travel over a short distance?",
   answers: ["31 mph (49 km)", "27 mph (43 km)", "32 mph (51 km)", "29 mph (46 km)"],
